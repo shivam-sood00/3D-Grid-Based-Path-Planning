@@ -1,5 +1,5 @@
 # 3D-Grid-Based-Path-Panning
-![][visualisation/1.png]
-![][visualisation/2.png]
-![][visualisation/3.png]
-![][visualisation/4.png]
+![][Visualisations/1.png]
+![][Visualisations/2.png]
+![][Visualisations/3.png]
+![][Visualisations/4.png]
